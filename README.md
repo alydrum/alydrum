@@ -10,5 +10,5 @@ I plan to use my Github to post my cybersecurity learning journey, such as any a
 - [TryHackMe Writeups](https://github.com/alydrum/TryHackMe)
 
 ### Socials
-<a href="https://www.linkedin.com/in/alydrum/"><img alt="LinkedIn icon" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/></a>
-<a href="https://twitter.com/alyd789"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png"/></a>
+<a href="https://www.linkedin.com/in/alydrum/"><img alt="LinkedIn icon" src="https://img.icons8.com/bubbles/70/000000/linkedin.png"/></a>
+<a href="https://twitter.com/alyd789"><img src="https://img.icons8.com/bubbles/70/000000/twitter.png"/></a>
