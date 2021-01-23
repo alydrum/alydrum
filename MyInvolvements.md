@@ -3,7 +3,8 @@
 ## Events/Conferences Attended
 - BSides Orlando 2020
 - Wild West Hackin' Fest The Roundup: AppSec w/ Bill Sempf (01/21/21)
-   -<img src='https://i.postimg.cc/j5hSZZTs/WWHF-App-Sec-Cert.png' border='0' alt='WWHF-App-Sec-Cert' width='400px'/>
+  
+  <img src='https://i.postimg.cc/j5hSZZTs/WWHF-App-Sec-Cert.png' border='0' alt='WWHF-App-Sec-Cert' width='400px'/>
 
 ## Clubs/Organizations
 - Hack@UCF: Collegiate Cyber Defense Club @ UCF
