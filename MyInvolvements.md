@@ -1,6 +1,6 @@
 # My Involvements in the Cybersecurity Community
 
-## Events/Conferences Attended
+## Events/Conferences I've Attended
 - BSides Orlando 2020
 - Wild West Hackin' Fest The Roundup: AppSec w/ Bill Sempf (01/21/21)
   
