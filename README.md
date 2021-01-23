@@ -7,6 +7,7 @@ I am a senior majoring in Information Technology and minoring in Secure Computin
 I plan to use my Github to post my cybersecurity learning journey, such as any achievements I've accomplished, post write-ups (from HackTheBox & TryHackMe machines/rooms I've done), etc. 
 
 - [My Involvements in Cyber Community](https://github.com/alydrum/alydrum/blob/main/MyInvolvements.md)
+- [Certs I've Earned](https://github.com/alydrum/alydrum/blob/main/Certs.md)
 - [TryHackMe Writeups](https://github.com/alydrum/TryHackMe)
 
 ### Socials
