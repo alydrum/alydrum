@@ -1,12 +1,12 @@
 ## Hi there 👋
 
 ### My name is Alyssa Drum 
-I am a recent graduate in Information Technology and minoring in Secure Computing and Networks (SCAN). My passion for cybersecurity began during my spring 2020 semester when I enrolled in the CodePath Cybersecurity course offered at my university. Since then, I continued to focus on learning cybersecurity concepts, especially penetration testing. I, then, use resources I find online such as HackTheBox, TryHackMe, Immersive Lab, etc. to supplement my learning. I also enjoy attending cyber/infosec conferences and I plan to participate in more CTF competitions.  
+I am a recent college graduate that majored in Information Technology and minored in Secure Computing and Network (SCAN). My passion for cyber security began during my spring 2020 semester when I enrolled in the CodePath Cyber Security course offered at my university. Since then, I've focused on learning basic cyber security concepts with a focus on penetration testing. I, then, use resources I find online such as HackTheBox, TryHackMe, Immersive Lab, etc. to supplement my learning. I also enjoy attending cyber/infosec conferences and I want to participate in more CTF competitions.  
 
 ### Portfolio
-I plan to use my Github to post my cybersecurity learning journey, such as any achievements I've accomplished, post write-ups (from HackTheBox & TryHackMe machines/rooms I've done), etc. 
+I am going to be using this portfolio to post my cybersecurity learning journey. Showing any achievements I've accomplished, post write-ups (from HackTheBox machines, TryHackMe rooms, CTF challenges), etc. 
 
-- [My Involvements in Cyber Community](https://github.com/alydrum/alydrum/blob/main/MyInvolvements.md)
+- [My Involvements in The Cyber Security Community](https://github.com/alydrum/alydrum/blob/main/MyInvolvements.md)
 - [Certs I've Earned](https://github.com/alydrum/alydrum/blob/main/Certs.md)
 - [TryHackMe Writeups](https://github.com/alydrum/TryHackMe)
 
