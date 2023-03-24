@@ -11,6 +11,3 @@ I am going to be using this portfolio to post my cybersecurity learning journey.
 - [TryHackMe Writeups](https://github.com/alydrum/TryHackMe)
 - [Hack The Box Writeups](https://github.com/alydrum/HackTheBox-Writeups)
 
-### Socials
-<a href="https://www.linkedin.com/in/alydrum/"><img alt="LinkedIn icon" src="https://img.icons8.com/bubbles/70/000000/linkedin.png"/></a>
-<a href="https://twitter.com/cyb3raly"><img alt="Twitter icon" src="https://img.icons8.com/bubbles/70/000000/twitter.png"/></a>
